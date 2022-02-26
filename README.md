@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png?20140316083713" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png?20140316083713"/></a>
 
 # dart_language
 
