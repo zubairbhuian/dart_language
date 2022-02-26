@@ -14,5 +14,5 @@ ranging from small handheld devices to server-side execution.
 Dart Behaviour
 - <b>Optional types:</b>  this means you can start coding without types and add them later as
 needed.
-- <b>Isolates:</b>concurrent programming on server and client
-- <b>Easy DOM access:</b> Easy DOM access:" using CSS selectors (the same way that jQuery does it)
+- <b>Isolates:</b> concurrent programming on server and client
+- <b>Easy DOM access:</b> using CSS selectors (the same way that jQuery does it)
