@@ -1,4 +1,4 @@
-[](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png?20140316083713)
+<a href="#"><img width="100%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png?20140316083713" height="175px"/></a>
 
 # dart_language
 
@@ -12,7 +12,7 @@ ranging from small handheld devices to server-side execution.
 
 
 Dart Behaviour
-- "## Optional types:"  this means you can start coding without types and add them later as
+- <b>Optional types:</b>  this means you can start coding without types and add them later as
 needed.
-- "## Isolates:"concurrent programming on server and client
-- " ## Easy DOM access:" using CSS selectors (the same way that jQuery does it)
+- <b>Isolates:</b>concurrent programming on server and client
+- <b>Easy DOM access:</b> Easy DOM access:" using CSS selectors (the same way that jQuery does it)
