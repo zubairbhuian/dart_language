@@ -1,6 +1,11 @@
 void main() => myFunc();
 
+class MyClass {
+  static var name = "Zunair";
+  static var vilagg = "Nikla";
+  static var post = "Nikla";
+}
+
 myFunc() {
-  var a = null;
-  print(a ??=0);
+  print(MyClass.name);
 }
