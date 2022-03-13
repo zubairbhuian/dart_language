@@ -1,6 +1,8 @@
 void main() => myFunc();
 
 myFunc() {
-  bool value = true;
-  value == true ? print("object") : print("1");
+  var a = 11;
+  var b = 6;
+  var c = a / b;
+  print(c);
 }
