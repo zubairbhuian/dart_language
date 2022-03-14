@@ -1,11 +1,4 @@
-void main() => myFunc();
-
-class MyClass {
-  static var name = "Zunair";
-  static var vilagg = "Nikla";
-  static var post = "Nikla";
-}
-
-myFunc() {
-  print(MyClass.name);
+void main() {
+  final mylist = ["Zubair", "Bhuian"];
+  print(mylist[1]+' '+'is a good boy');
 }
